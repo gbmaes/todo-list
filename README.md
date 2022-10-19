@@ -1,6 +1,6 @@
 # vuetodolist
 
-> a vue.js project
+> a simple vue.js project that allows the user to type, register and remove inputs in a todo list
 
 ## Build Setup
 
