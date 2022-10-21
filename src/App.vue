@@ -139,5 +139,4 @@ background-color: #2c974b;
   word-break: break-word;
   border: 0;
 }
-
 </style>
