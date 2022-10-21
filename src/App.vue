@@ -64,7 +64,6 @@ h1 { color: black;
 }
 
 /* add button */
-
 .button-add {
   appearance: none;
   background-color: #2ea44f;
