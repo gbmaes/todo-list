@@ -60,7 +60,6 @@ h1 { color: black;
   line-height: 50px; 
   margin: 0 0 12px; 
 }
-
 /* add button */
 .button-add {
   appearance: none;
