@@ -49,7 +49,6 @@ export default {
 body{
   text-align: center;
   font-family: 'Courier New', monospace;
-
 }
 
 h1 { color: black; 
